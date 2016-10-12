@@ -3,12 +3,8 @@
 TALA ist, kann, macht ...
 
 ---
-## [Bildung nutzen](unit-1.md)
-
-
-unit-1.md -> "Als Schüler"
-unit-2.md -> "Als Lehrer"
-
+## [Einheit 1](unit-1.md)
+## [Einheit 2](unit-2.md)
 
 
 ## Was ist TALA
