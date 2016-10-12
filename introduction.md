@@ -1,5 +1,6 @@
-# Einführung in TALA
-
+Einführung in TALA
+---
+## TALA - Eine Einführung
 TALA ist, kann, macht ...
 
 ---
