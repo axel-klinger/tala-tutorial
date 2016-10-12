@@ -1,4 +1,4 @@
-Intro-to-TALA
+Einführung in TALA
 ---
 ## TALA - Eine Einführung
 TALA ist, kann, macht ...
