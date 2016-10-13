@@ -1,1 +1,1 @@
-# tala-tutorial
+# TALA Tutorial
