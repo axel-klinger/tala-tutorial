@@ -4,5 +4,5 @@ Einführung in TALA
 TALA ist, kann, macht ...
 
 ---
-## [Einheit 1](unit-1.md)
-## [Einheit 2](unit-2.md)
+## [Kurse laden](unit-1.md)
+## [Kurse bereitstellen](unit-2.md)
