@@ -1,7 +1,8 @@
 Einführung in TALA
 ---
 ## TALA - Eine Einführung
-TALA ist, kann, macht ...
+
+Mit TALA können Bildungsmaterialien zu Kursen zusammengefasst, geteilt und geladen werden.
 
 ---
 ## [Kurse laden](unit-1.md)
