@@ -19,8 +19,8 @@ Um Kurse auf Github zu teilen reicht es, sich einen kostenlosen Account bei Gith
 
 Ein einfaches Beispiel für einen Kurs auf Github
 
-https://github.com/axel-klinger/tala-tutorial/tree/master/xy
+[https://github.com/axel-klinger/tala-tutorial/tree/master/xy](https://github.com/axel-klinger/tala-tutorial/tree/master/xy)
 
 Der Kurs kann dann mit der folgenden URL in einer eigenen Kategorie geladen werden
 
-https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md
+[https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md)

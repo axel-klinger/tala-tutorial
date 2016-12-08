@@ -4,7 +4,7 @@ Kurse können über einen Schulserver oder aus einer Textdatei via URL geladen w
 
 ## Laden von Kursen von einem Schulserver
 
-* Schule anlegen: unter Einstellungen -> Schulen -> Bearbeiten -> Schule hinzufügen (Wenn du noch keine Schule hast, kannst du zunächst meine Beispielschule ausprobieren unter http://tala-example.ddns.net/tala )
+* Schule anlegen: unter Einstellungen -> Schulen -> Bearbeiten -> Schule hinzufügen (Wenn du noch keine Schule hast, kannst du zunächst meine Beispielschule ausprobieren unter [http://tala-example.ddns.net/tala](http://tala-example.ddns.net/tala) )
 * Nach Eingabe der Schul-URL und Bestätigung mit Enter werden die Informationen zur Schule geladen (wenn keine Informationen geladen werden - URL überprüfen)
 * Schule hinzufügen und zurück zum Menü
 * Kategorie erstellen und auswählen
@@ -15,4 +15,4 @@ Kurse können über einen Schulserver oder aus einer Textdatei via URL geladen w
 ## Laden von Kursen via Github
 
 * Kategorie anlegen -> Bearbeiten -> Neuer Kurs -> Kurs laden
-* Beispiel-Kurs: https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md
+* Beispiel-Kurs: [https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md)
