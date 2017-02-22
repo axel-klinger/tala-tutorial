@@ -26,7 +26,14 @@ Dies ist ein anderer Text
 
 In einem Text ein Link [Mathematik](https://de.wikipedia.org/wiki/Mathematik)
 
+Video Version 1 mit youtu.be
 [![My Test Video](https://img.youtube.com/vi/wI4Orc1MtKM/maxresdefault.jpg)](https://youtu.be/wI4Orc1MtKM)
+
+Video Version 2 mit www.youtube.com
+[![My Test Video](https://img.youtube.com/vi/wI4Orc1MtKM/maxresdefault.jpg)](https://www.youtube.com/watch?v=wI4Orc1MtKM)
+
+Video Version 3 mit youtube und key
+[youtube](wI4Orc1MtKM)
 
 Image
 ![Principia Mathematica](https://upload.wikimedia.org/wikipedia/commons/6/60/Newton-Principia-Mathematica_1-500x700.jpg)
