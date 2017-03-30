@@ -8,5 +8,5 @@ Wikipedia: In der Mathematik bezeichnet ein Term einen sinnvollen Ausdruck, der 
 In der Praxis wird der Begriff häufig benutzt, um über einzelne Bestandteile einer Formel oder eines größeren Terms zu reden.
 
 ---
-[Theorie](theorie.md)
-[Aufgaben](aufgaben.md)
+## [Theorie](theorie.md)
+## [Aufgaben](aufgaben.md)
