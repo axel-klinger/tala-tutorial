@@ -14,7 +14,7 @@ Kurse können über einen Schulserver oder aus einer Textdatei via URL geladen w
 
 $$1 = 2^0$$
 
-![Example from GitBook](gitbook-auswahl.png)
+![Example from GitBook](/gitbook-auswahl.png)
 
 ## Laden von Kursen via Github
 
