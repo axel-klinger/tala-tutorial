@@ -14,7 +14,12 @@ Kurse können über einen Schulserver oder aus einer Textdatei via URL geladen w
 
 $$1 = 2^0$$
 
+*Link der im Web funktioniert (relativ)*
 ![Example from GitBook](/gitbook-auswahl.png)
+
+*Link der im Tablet funktioniert (remote)*
+![Example from GitBook](/gitbook-auswahl.png)
+
 
 ## Laden von Kursen via Github
 
