@@ -18,7 +18,7 @@ $$1 = 2^0$$
 ![Example from GitBook](/gitbook-auswahl.png)
 
 *Link der im Tablet funktioniert (remote)*
-![Example from GitBook](/gitbook-auswahl.png)
+![Example from GitBook](https://github.com/axel-klinger/tala-tutorial/blob/master/gitbook-example.png)
 
 
 ## Laden von Kursen via Github
