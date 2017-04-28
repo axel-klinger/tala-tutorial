@@ -1,6 +1,7 @@
 ## Eine Überschrift in der Einheit
 Der Inhalt der Einheit.
 
+![Example from GitBook](/gitbook-auswahl.png)
 
 Die **Vereinigung** zweier *Mengen* A ODER B beschreibt die Menge der Elemente, die in A oder B enthalten sind.
 
