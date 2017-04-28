@@ -1,8 +1,8 @@
 # TALA Tutorial
 
-![pictogram](/pictogram.jpg)
+![pictogram](/xy/pictogram.jpg)
 
 Dies ist mein zweites Buch.
 
-![Example from GitBook](/diagram.jpg)
+![Example from GitBook](/xy/diagram.jpg)
 
