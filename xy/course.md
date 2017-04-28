@@ -1,5 +1,5 @@
 
-Ein Fach - Ein Titel - pictogram2.jpg
+Ein Fach - Ein Titel - /pictogram2.jpg
 ---
 ## Eine Überschrift
 
