@@ -10,5 +10,5 @@ Ein Absatz.
 In der ersten Einheit sind die derzeit möglichen Formatierungen einmal demonstriert.
 
 ---
-[Eine Einheit](unit.md){/diagramm.jpg}
+[Eine Einheit](unit.md){/pictogram.jpg}
 
