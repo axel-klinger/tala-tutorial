@@ -1,6 +1,6 @@
 # TALA Tutorial
 
-![](/IMG_0475.JPG)
+![](/gitbook-auswahl.png)
 
 Dies ist mein zweites Buch.
 
