@@ -15,7 +15,7 @@ Kurse können über einen Schulserver oder aus einer Textdatei via URL geladen w
 $$1 = 2^0$$
 
 *Link der im Web funktioniert (relativ)*
-![Example from GitBook](/gitbook-auswahl.png)
+![Example from GitBook](/de/bilder/globe-2.png)
 
 *Link der im Tablet funktioniert (remote)*
 ![Example from GitBook](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/gitbook-example.png)
