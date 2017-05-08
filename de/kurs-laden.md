@@ -31,6 +31,3 @@ $$1 = 2^0$$
 
 * Kategorie anlegen -&gt; Bearbeiten -&gt; Neuer Kurs -&gt; Kurs laden
 * Beispiel-Kurs: [https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/xy/course.md)
-
-
-
