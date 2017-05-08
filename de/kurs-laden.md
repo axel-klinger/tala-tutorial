@@ -17,6 +17,12 @@ $$1 = 2^0$$
 *Link der im Web funktioniert (relativ)*
 ![Example from GitBook](bilder/globe-2.png)
 
+*Link der im Web funktioniert (relativ)*
+![Example from GitBook](bilder/globe-2.png)
+
+*Link der im Tablet funktioniert (remote)*
+![Example from GitBook](bilder/globe.png)
+
 *Link der im Tablet funktioniert (remote)*
 ![Example from GitBook](bilder/globe.png)
 
