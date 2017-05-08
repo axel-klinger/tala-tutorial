@@ -1,5 +1,5 @@
 
-Ein Fach - Ein Titel - pictogram2.jpg
+Ein Fach - Ein Titel - bilder/pictogram2.jpg
 ---
 ## Eine Überschrift
 
@@ -10,4 +10,4 @@ Ein Absatz.
 In der ersten Einheit sind die derzeit möglichen Formatierungen einmal demonstriert.
 
 ---
-[Eine Einheit](unit.md){/pictogram.jpg}
+[Eine Einheit](unit.md){bilder/pictogram.jpg}
