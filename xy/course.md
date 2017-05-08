@@ -5,7 +5,7 @@ Ein Fach - Ein Titel - pictogram2.jpg
 
 Ein Absatz.
 
-![Example from GitBook](bilder/globe-2.png)
+![Example from GitBook](bilder/diagram.jpg)
 
 In der ersten Einheit sind die derzeit möglichen Formatierungen einmal demonstriert.
 
