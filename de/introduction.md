@@ -1,4 +1,3 @@
-
 Einführung in TALA
 ---
 ## TALA - Eine Einführung
