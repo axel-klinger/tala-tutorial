@@ -4,4 +4,4 @@ Die Division ist eine der vier Grundrechenarten der Arithmetik. Sie ist die Umke
 
 [Wikipedia](https://de.wikipedia.org/wiki/Division_(Mathematik))
 
-[Beispiel](bilder/Division.png)
+![Beispiel](bilder/Division.png)
