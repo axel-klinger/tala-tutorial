@@ -1,5 +1,5 @@
 
-Mathematik - Arithmetik - bilder/aritmetik-icon.png
+Mathematik - Arithmetik - bilder/Operatoren.png
 ---
 ## Arithmetik
 
