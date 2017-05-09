@@ -1,5 +1,5 @@
 
-Einführung in TALA - Intro - /bilder/pi.png
+Einführung in TALA
 ---
 ## TALA - Eine Einführung
 
