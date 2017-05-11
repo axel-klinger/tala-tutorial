@@ -19,8 +19,6 @@ Aktuell probiere ich gerade mit einem digitalen Stift Skizzen am Tablet mit Gimp
 
 ![Beispiel Gimp Stift](bilder/globe-2.png)
 
-![Beispiel ExplainEverything]()
-
 
 ## Video
 
