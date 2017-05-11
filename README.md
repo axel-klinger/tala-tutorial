@@ -5,8 +5,8 @@ This is on a separate line
 a^2+b^2=c^2
 ```
 
-![pictogram](xy/bilder/pictogram.jpg)
+![pictogram](/beispiele/xy/bilder/pictogram.jpg)
 
 Dies ist mein zweites Buch.
 
-![Example from GitBook](xy/bilder/diagram.jpg)
+![Example from GitBook](/beispiele/xy/bilder/diagram.jpg)
