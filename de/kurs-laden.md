@@ -12,8 +12,6 @@ Kurse können über einen Schulserver oder aus einer Textdatei via URL geladen w
 * Schule auswählen - die verfügbaren Kurse werden geladen
 * Kurse auswählen und hinzufügen
 
-$$1 = 2^0$$
-
 *Link der im Web funktioniert (relativ)*
 ![Example from GitBook](bilder/globe-2.png)
 

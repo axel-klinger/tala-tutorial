@@ -1,22 +1,17 @@
 
 ### Was ist TALA?
 
-TALA (Teach And Learn Anything) ist ein freier Zugang zu Bildung - und da es evolutionär ist, zukünftig zur besten Bildung!
+TALA (Teach And Learn Anything) ist eine verteilte Plattform für freie Bildungsmaterialien (OER - Open Educational Resources).
 
-* ermöglicht es jedem das zu lernen, was er/sie braucht bzw. lernen will oder lernen sollte
-* ist eine Plattform für OER (Open Education Resources = Freie Bildungsinhalte/-Materialien)
+TALA ermöglicht es jedem das zu lernen, was er/sie braucht bzw. lernen will oder lernen sollte.
 
 ### Wie funktioniert TALA?
 
-Schulen und andere staatliche Bildungseinrichtungen stellen ihre Inhalte der Allgemeinheit zur Verfügung und jeder kann die Kurse frei und ohne Registrierung abonnieren.
+Schulen und andere staatliche Bildungseinrichtungen - private können sich natürlich auch daran beteiligen - stellen ihre Inhalte der Allgemeinheit zur Verfügung und jeder kann die Kurse frei und ohne Registrierung laden und aktualisieren.
 
-* mobile App für Smartphone und vor allem Tablet für alle persönlichen Bildungsinhalte
-* ein Server pro Schule mit allen Kursen (leicht gewichtig, nur text)
-* in Arbeit ist eine zentrale Registrierung aller Schulen für die Suche nach passenden/besten Kursen
-
-* bietet die Möglichkeit alle Inhalte zum Bestehen aller Kurse im aktuellen Jahrgang bereit zu stellen
-* Inhalte, Aufgaben oder Präsentationen können von allen Lehrern, Schülern, Eltern etc. erweitert und verbessert werden
-* ermöglicht es Kurse an anderen Schulen zu lernen
+* Mit einer mobilen App für Smartphone und Tablet kann sich jeder sein eigenes Kursprogramm zusammenstellen oder ein von Lehrern empfohlenes frei laden
+* Jede Schule/Hochschule kann auf einem eigenen oder gemeinsam genutzten Server die Inhalte für alle Klassen bereitstellen
+* Mittels einer zentralen Registrierung der Schulen lassen sich die besten/passenden Kurse direkt in der App auswählen
 
 ### Was kann TALA lösen?
 
@@ -34,10 +29,10 @@ Was mich interessiert ...
 
 ### Häufige gestellte Fragen
 
-Wenn ich etwas schreibe, ist es dann gleich online?
+**Wenn ich etwas schreibe, ist es dann gleich online?**
 
 * Nein, alles was ich erstelle ist zunächst lokal auf meinem Gerät gespeichert. Um es zu veröffentlichen muss ich erst einen Autorenzugang auf einem Server haben und den Kurs explizit veröffentlichen.
 
-Muss ich mich irgendwo mit meinen persönlichen Daten registrieren?
+**Muss ich mich irgendwo mit meinen persönlichen Daten registrieren?**
 
 * Als Schüler/Student brauche ich micht nicht zu registrieren um Kurse zu laden. Als Lehrer brauche ich einen Zugang mit Schreibrechten auf einem Server mit Name und Email Adresse.
