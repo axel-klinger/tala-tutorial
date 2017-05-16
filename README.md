@@ -1,14 +1,9 @@
 # TALA Tutorial
 
-mmmmm
+TALA (Teach And Learn Anything) ist eine verteilte Plattform für freie Bildungsmaterialien (OER - Open Educational Resources).
 
-This is on a separate line
-```math
-a^2+b^2=c^2
-```
+Im Vergleich zu anderen Sammlungen von OER Materialien lassen sich mit TALA ganze Kurse einfach zusammenstellen und teilen. TALA basiert auf dem Gedanken, dass sich mit einer einfachen Textbeschreibungssprache Markdown Inhalte zusammenfügen lassen, die von anderen Plattformen stammen und als Links oder eingebettete Elemente in die Kurse eingefügt werden.
 
-![pictogram](/beispiele/xy/bilder/pictogram.jpg)
+Die TALA App für Android und iOS ermöglicht es, die Kurse von GitHub einfach auf Mobilgeräten zu verwalten. Weitere Informationen zur App gibt es auf http://talalab.net
 
-Dies ist mein zweites Buch.
-
-![Example from GitBook](/beispiele/xy/bilder/diagram.jpg)
+Eine vollständige Anleitung zur Verwendung der App und des optionalen TALA Servers ist z.Z. im Aufbau unter [tala-tutorial/de](https://github.com/axel-klinger/tala-tutorial/blob/master/de/introduction.md) 
