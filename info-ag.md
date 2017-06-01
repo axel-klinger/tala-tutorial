@@ -12,8 +12,9 @@ Spiele entwickeln für Mobilgeräte
 
 * Wirtschaftssimulation (WS)
   - Beispiel: Fluggesellschaft, Autovermietung, Server/Services, ... irgendwas zum Mieten halt ...
+  ... alt. Produktion oder Dienstleistung ...
 * Adventure (ADV)
-  - Beispiel: Märchen als CC
+  - Beispiel: Märchen als CC, Film, Geschichte ... aber CC!
 
 Jeweils in den Ausbaustufen
 
