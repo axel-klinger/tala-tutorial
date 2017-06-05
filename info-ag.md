@@ -37,6 +37,9 @@ Einheiten -> 1. Halbjahr Konsole, 2. Halbjahr App
 - Entwicklungsumgebung einrichten Konsole + "Hello World!" in Git
 
 - Modell der Informationen Wirtschaftssimultion
+
+  In diesem Kurs bauen wir ein Spiel, bei dem wir Waren an verschiedenen Orten handeln können und nach 30 Tagen so viel wie möglich verdient haben müssen. Das Spiel kann beliebig erweitert werden.
+
   - Objekte, Handlungen und Eigenschaften
   - Variablen
   - Ein- und Ausgabe
@@ -44,6 +47,9 @@ Einheiten -> 1. Halbjahr Konsole, 2. Halbjahr App
   - Struktur des Modells
 
 - Modell der Informationen Adventure
+
+  In diesem Kurs bauen wir ein Spiel, bei dem wir uns in einer Matrix aus Szenen bewegen und Aufgaben in einem Spielverlauf lösen müssen.
+
   - s.o.
 
 - Programmiereinheiten WS
