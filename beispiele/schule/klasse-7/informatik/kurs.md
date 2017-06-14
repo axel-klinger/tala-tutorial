@@ -1,15 +1,35 @@
 
-Informatik - Datenstrukturen - bilder/alpha.png
+Informatik - Spiele entwickeln - bilder/karte-dollar-joystick.png
 ---
-## Datenstrukturen
+## Spiele Programmieren
 
-In der Informatik und Softwaretechnik ist eine Datenstruktur ein Objekt zur Speicherung und Organisation von Daten. Es handelt sich um eine Struktur, weil die Daten in einer bestimmten Art und Weise angeordnet und verknüpft werden, um den Zugriff auf sie und ihre Verwaltung effizient zu ermöglichen.
+Wir lernen zu programmieren um zu automatisieren - und lästige Aufgaben nicht mehr von Hand erledigen zu müssen. Das kann auch Aufgaben aus dem Schulalltag einschließen ;-). Die Programmierung ist nur ein Werkzeug. Nebenbei lernen wir in der Informatik auch, es effizient und effektiv einzusetzen.
 
-Datenstrukturen sind nicht nur durch die enthaltenen Daten charakterisiert, sondern vor allem durch die Operationen auf diesen Daten, die Zugriff und Verwaltung ermöglichen und realisieren.
+In diesem Kurs entwickeln wir eine Wirtschaftssimulation und/oder parallel ein Adventure und finden dabei einen Einstieg in Datenstrukturen, Modellbildung und Programmierung. Das Ergebnis des ersten Teils/Halbjahres ist ein Programm das am PC in Eingabeaufforderung/Terminal läuft. Im zweiten Teil wird das gleiche Programm als App für Mobilgeräte umgesetzt nach dem Muster Model-View-Controller.
 
-[Informatik bei Wikipedia](https://de.wikipedia.org/wiki/Informatik)
-[Datenstruktur bei Wikipedia](https://de.wikipedia.org/wiki/Datenstruktur)
+***Wirtschaftssimulation***
+* Kaufen und Verkaufen von Waren
+* Schwankungen der Preise
+* Ziel: Nach X Tagen max. Profit
+
+Alternativ zur Wirtschaftssimulation wird in einem parallelen Kurs ein Adventure entwickelt - ebenfalls für PC und Mobilgeräte - mit vergleichbaren Grundlagen.
+
+***Adventure***
+* Bewegen zwischen Szenen im Raster
+* Sammeln von Gegenständen
+* Lösen von Aufgaben
+* Ziel: Eine (sehr!) kuzre Geschichte erfolgreich lösen
+
+// auf einer Insel eine Schaufl unter einem Stein finden und auf einer zweiten Insel einen Schatz ausgraben
+
+***Weitere Beispiele/Aufgaben***
+* TicTacToe
+* HangMan
+* Hanoi
+* ...
 
 ---
-## [Theorie](theorie.md){bilder/beta.png}
+## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-groovy.md){bilder/beta.png}
+## [Erste Programmierbeispiele](prog-intro.md){bilder/beta.png}
+## [Modell des Programms](){}
 ## [Aufgaben](aufgaben.md){bilder/gamma.png}

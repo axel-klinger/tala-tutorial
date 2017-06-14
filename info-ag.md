@@ -52,7 +52,31 @@ Einheiten -> 1. Halbjahr Konsole, 2. Halbjahr App
 
   - s.o.
 
-- Programmiereinheiten WS
+- Programmiereinheiten WS ... s.a. info-ag-ws git
+
+```
+// Angebot an Artikeln
+def angebot = ['Honig', 'Salz', 'Tran', 'Pelze'] as Set
+def get = { it -> System.console().readLine(it + '\n') }
+
+def artikel = [] as Set
+
+// Schleife mit Abbruchbedingung
+while (artikel.size() < 3 ) {
+  // Validierung der Auswahl
+  def auswahl = get( 'Wähle ein Produkt aus ' + angebot)
+  if (angebot.contains(auswahl)) {
+    artikel.add( auswahl )
+  } else {
+    println auswahl + ' ist nicht im Angebot!'
+  }
+}
+
+println artikel
+```
+Was haben wir bis hier gelernt?
+* s. git log
+
 
 - Programmiereinheiten ADV
 

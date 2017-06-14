@@ -1,0 +1,32 @@
+## Erste Schritte in der Programmierung
+
+### Eingabe, Variable und Ausgabe
+
+...
+
+### Der erste Warenkord
+
+Mit dem folgenden Programm können wir bereits ein paar Artikel in einen Warenkorb legen. Die einzelnen Schritte können in github nachvollzogen werden. Zu jedem commit gibt es ein kurzes Video.
+
+```
+// Angebot an Artikeln
+def angebot = ['Honig', 'Salz', 'Tran', 'Pelze'] as Set
+def get = { it -> System.console().readLine(it + '\n') }
+
+def artikel = [] as Set
+
+// Schleife mit Abbruchbedingung
+while (artikel.size() < 3 ) {
+  // Validierung der Auswahl
+  def auswahl = get( 'Wähle ein Produkt aus ' + angebot)
+  if (angebot.contains(auswahl)) {
+    artikel.add( auswahl )
+  } else {
+    println auswahl + ' ist nicht im Angebot!'
+  }
+}
+
+println artikel
+```
+Was haben wir bis hier gelernt?
+* s. git log
