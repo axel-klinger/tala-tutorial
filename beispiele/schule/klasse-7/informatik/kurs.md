@@ -32,7 +32,7 @@ Alternativ zur Wirtschaftssimulation wird in einem parallelen Kurs ein Adventure
 * ...
 
 ---
-## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-dev-groovy.md){bilder/beta.png}
-## [Erste Programmierbeispiele](prog-intro.md){bilder/beta.png}
-## [Modell des Programms](modell-ws.md){bilder/gamma.png}
-## [Aufgaben](aufgaben.md){bilder/gamma.png}
+## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-dev-groovy.md){bilder/hello.jpg}
+## [Erste Programmierbeispiele](prog-intro.md){bilder/korb.jpg}
+## [Modell des Programms](modell-ws.md){bilder/modell.jpg}
+## [Aufgaben](aufgaben.md){bilder/gaaufgaben.jpg}
