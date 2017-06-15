@@ -1,20 +1,22 @@
 
-Informatik - Spiele entwickeln - bilder/karte-dollar-joystick.png
+Informatik - Programmierung - bilder/karte-dollar-joystick.png
 ---
-## Spiele Programmieren
+## Spiele entwickeln
 
 Wir lernen zu programmieren um zu automatisieren - und lästige Aufgaben nicht mehr von Hand erledigen zu müssen. Das kann auch Aufgaben aus dem Schulalltag einschließen ;-). Die Programmierung ist nur ein Werkzeug. Nebenbei lernen wir in der Informatik auch, es effizient und effektiv einzusetzen.
 
 In diesem Kurs entwickeln wir eine Wirtschaftssimulation und/oder parallel ein Adventure und finden dabei einen Einstieg in Datenstrukturen, Modellbildung und Programmierung. Das Ergebnis des ersten Teils/Halbjahres ist ein Programm das am PC in Eingabeaufforderung/Terminal läuft. Im zweiten Teil wird das gleiche Programm als App für Mobilgeräte umgesetzt nach dem Muster Model-View-Controller.
 
-***Wirtschaftssimulation***
+### Wirtschaftssimulation
+
 * Kaufen und Verkaufen von Waren
 * Schwankungen der Preise
 * Ziel: Nach X Tagen max. Profit
 
 Alternativ zur Wirtschaftssimulation wird in einem parallelen Kurs ein Adventure entwickelt - ebenfalls für PC und Mobilgeräte - mit vergleichbaren Grundlagen.
 
-***Adventure***
+### Adventure
+
 * Bewegen zwischen Szenen im Raster
 * Sammeln von Gegenständen
 * Lösen von Aufgaben
@@ -22,7 +24,8 @@ Alternativ zur Wirtschaftssimulation wird in einem parallelen Kurs ein Adventure
 
 // auf einer Insel eine Schaufl unter einem Stein finden und auf einer zweiten Insel einen Schatz ausgraben
 
-***Weitere Beispiele/Aufgaben***
+### Weitere Beispiele/Aufgaben
+
 * TicTacToe
 * HangMan
 * Hanoi

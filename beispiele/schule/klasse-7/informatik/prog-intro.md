@@ -2,7 +2,7 @@
 
 ### Eingabe, Variable und Ausgabe
 
-...
+In der ersten Einheit lernen wir Daten einzugeben, in Variablen zu speichern und Werte auszugeben.
 
 ### Der erste Warenkord
 
@@ -19,7 +19,7 @@ def artikel = [] as Set
 while (artikel.size() < 3 ) {
   // Validierung der Auswahl
   def auswahl = get( 'Wähle ein Produkt aus ' + angebot)
-  if (angebot.contains(auswahl)) {
+  if ( angebot.contains(auswahl) ) {
     artikel.add( auswahl )
   } else {
     println auswahl + ' ist nicht im Angebot!'
