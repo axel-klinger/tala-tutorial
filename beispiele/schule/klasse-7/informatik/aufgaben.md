@@ -2,7 +2,7 @@
 
 Die folgenden Aufgaben helfen dir, dein Verständnis für die Programmierung zu festigen. Versuche auch die einzelnen Beispiele zu verändern und ggf. andeere Lösungen zu finden.
 
-#### Eingabe und Ausgabe
+### Eingabe und Ausgabe
 [[
 ***Aufgage 1***
 
@@ -14,7 +14,7 @@ println 'Hallo ' + name
 ```
 ))
 
-#### Zahlen und Zeichenketten
+### Zahlen und Zeichenketten
 
 Speichern und verändern von Werten.
 
@@ -30,7 +30,7 @@ println 'Die Summe von ' + ersteZahl + ' und ' + zweiteZahl + ' ist ' + (ersteZa
 ```
 ))
 
-#### Schleifen und Verzweigungen
+### Schleifen und Verzweigungen
 
 [[
 ***Aufgabe 2***
@@ -45,8 +45,8 @@ Schreibe ein Programm mit einer Schleife, das deinen Namen 5 mal ausgibt.
   ))
 
 
-#### Mengen und Listen
+### Mengen und Listen
 
-#### Klassen und Objekte
+### Klassen und Objekte
 
 Beschreibung komplexer Objekte der realen Welt mit Klassen und Objekten.
