@@ -28,5 +28,10 @@ while (artikel.size() < 3 ) {
 
 println artikel
 ```
-Was haben wir bis hier gelernt?
-* s. git log
+
+Was haben wir bis hier kennen gelernt?
+* Ein- und Ausgabe
+* Schleifen
+* Verzweigungen
+* Zeichenketten
+* Mengen
