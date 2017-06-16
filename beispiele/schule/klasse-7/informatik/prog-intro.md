@@ -29,6 +29,8 @@ while (artikel.size() < 3 ) {
 println artikel
 ```
 
+// Alle Beispiele zum Nachlesen | als Video mit Erläuterung | ... ?
+
 ### Was haben wir bis hier kennen gelernt?
 
 * Ein- und Ausgabe

@@ -26,3 +26,9 @@ Wir werden im Laufe des Kurses die wesentlichen Grundlagen von Groovy kennen ler
 Atom ist ein sehr leistungsfähiger Editor für verschiedene Programmiersprachen und unterstützt ab der Version 2 (noch Beta, aber schon gut) auch die Versionsverwaltung Git.
 
 [Download Atom](https://atom.io/beta)
+
+### Testen der Entwicklungsumgebung
+
+[![Modell der Wirtschaftssimulation Video](https://img.youtube.com/vi/CiXPG5JTQk0/maxresdefault.jpg)](https://youtu.be/CiXPG5JTQk0)
+
+Wenn das alles geht, dann ist die erste Einheit erfolgreich abgeschlossen!
