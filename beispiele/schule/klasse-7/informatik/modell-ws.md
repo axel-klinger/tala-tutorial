@@ -5,7 +5,7 @@ Bevor wir jetzt voreilig weiter in die Programmierung einsteigen, wollen wir ers
 
 [![Modell der Wirtschaftssimulation Video](https://img.youtube.com/vi/vLI5kN-_654/maxresdefault.jpg)](https://youtu.be/vLI5kN-_654)
 
-#### Marktplatz
+### Marktplatz
 
 Der Marktplatz zeigt die Produkte mit Anzahl und Preis, wie sie gekauft werden können.
 
@@ -17,11 +17,11 @@ Marktplatz 1
 3. Ware 3 - 10 Stk. - 17 EUR
 ```
 
-#### Tasche
+### Tasche
 
 In der Tasche befinden sich deine gekauften Waren. Die Tasche kann maximal X Waren aufnehmen.
 
-#### Waren
+### Waren
 
 Die Waren sollten am Ende konfigurierbar sein, so dass man mit verschiedenen Konfigurationen mit anderen Waren handeln kann. Waren können hier zum Beispiel auch Aktien sein - und wer mehr lernen will, kann das ganze noch um eine Echtzeit-Abfrage von Werten aus dem Netz erweitern.
 

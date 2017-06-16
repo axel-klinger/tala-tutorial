@@ -29,7 +29,8 @@ while (artikel.size() < 3 ) {
 println artikel
 ```
 
-Was haben wir bis hier kennen gelernt?
+### Was haben wir bis hier kennen gelernt?
+
 * Ein- und Ausgabe
 * Schleifen
 * Verzweigungen

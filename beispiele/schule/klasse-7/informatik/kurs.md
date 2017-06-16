@@ -25,21 +25,22 @@ Als zweies Programm wir ein Adventure entwickelt, bei dem man sich durch verschi
 * Bewegen zwischen Szenen im Raster
 * Sammeln von Gegenständen
 * Lösen von Aufgaben
-* Ziel: Eine (sehr!) kuzre Geschichte erfolgreich lösen
+* Ziel: Eine (sehr!) kurze Geschichte erfolgreich lösen
 
 ![Karte](bilder/karte.jpg)
 
-// auf einer Insel eine Schaufl unter einem Stein finden und auf einer zweiten Insel einen Schatz ausgraben
-
 ### Weitere Beispiele/Aufgaben
 
+* Zahlenraten
+* Türme von Hanoi
 * TicTacToe
 * HangMan
-* Hanoi
 * ...
 
 ---
 ## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-dev-groovy.md){bilder/hello.jpg}
 ## [Erste Programmierbeispiele](prog-intro.md){bilder/korb.jpg}
-## [Modell des Programms](modell-ws.md){bilder/modell.jpg}
+## [Grundlagen der Programmierung](prog-basic.md){bilder/alpha.png}
+## [Modell der Wirtschaftssimulation](modell-ws.md){bilder/modell.jpg}
+## [Modell des Adventures](modell-adv.md){bilder/modell.jpg}
 ## [Aufgaben](aufgaben.md){bilder/aufgabe.jpg}
