@@ -40,7 +40,7 @@ Als zweies Programm wir ein Adventure entwickelt, bei dem man sich durch verschi
 ---
 ## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-dev-groovy.md){bilder/hello.jpg}
 ## [Erste Programmierbeispiele](prog-intro.md){bilder/korb.jpg}
-## [Grundlagen der Programmierung](prog-basic.md){bilder/alpha.png}
+## [Grundlagen der Programmierung](prog-basics.md){bilder/alpha.png}
 ## [Modell der Wirtschaftssimulation](modell-ws.md){bilder/modell.jpg}
 ## [Modell des Adventures](modell-adv.md){bilder/modell.jpg}
 ## [Aufgaben](aufgaben.md){bilder/aufgabe.jpg}
