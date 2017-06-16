@@ -8,10 +8,7 @@ Die folgenden Aufgaben helfen dir, dein Verständnis für die Programmierung zu 
 
 Schreibe ein Programm, das nach deinem Namen fragt und dich anschließend mit deinem Namen begrüßt.
 ]]((
-```
-def name = System.console().readLine('Wie ist dein Name?')
-println 'Hallo ' + name
-```
+  [![Modell der Wirtschaftssimulation Video](https://img.youtube.com/vi/CiXPG5JTQk0/maxresdefault.jpg)](https://youtu.be/CiXPG5JTQk0)
 ))
 
 ### Zahlen und Zeichenketten
