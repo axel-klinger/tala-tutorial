@@ -29,6 +29,6 @@ Atom ist ein sehr leistungsfähiger Editor für verschiedene Programmiersprachen
 
 ### Testen der Entwicklungsumgebung
 
-[![Modell der Wirtschaftssimulation Video](https://img.youtube.com/vi/CiXPG5JTQk0/maxresdefault.jpg)](https://youtu.be/CiXPG5JTQk0)
+[![Entwicklungsumgebung mit Groovy/Git testen](https://img.youtube.com/vi/fbZOii_l7M4/maxresdefault.jpg)](https://youtu.be/fbZOii_l7M4)
 
 Wenn das alles geht, dann ist die erste Einheit erfolgreich abgeschlossen!
