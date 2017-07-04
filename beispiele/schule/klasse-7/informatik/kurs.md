@@ -32,10 +32,12 @@ Als zweies Programm wir ein Adventure entwickelt, bei dem man sich durch verschi
 ### Weitere Beispiele/Aufgaben
 
 * Zahlenraten
-* Türme von Hanoi
-* TicTacToe
-* HangMan
-* ...
+* [Türme von Hanoi](https://github.com/axel-klinger/groovy-hanoi)
+* [TicTacToe](https://github.com/axel-klinger/groovy-tictactoe)
+* [Galgenraten](https://github.com/axel-klinger/groovy-hangman)
+* [Adventure](https://github.com/axel-klinger/groovy-adventure)
+* [Kartensppiel](https://github.com/axel-klinger/groovy-karten)
+* [Wirtschaftssimulation](https://github.com/axel-klinger/groovy-handel)
 
 ---
 ## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-dev-groovy.md){bilder/hello.jpg}
