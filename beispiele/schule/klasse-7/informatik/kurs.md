@@ -40,6 +40,7 @@ Als zweies Programm wir ein Adventure entwickelt, bei dem man sich durch verschi
 * [Wirtschaftssimulation](https://github.com/axel-klinger/groovy-handel)
 
 ---
+## [BEISPIEL hanoi](https://raw.githubusercontent.com/axel-klinger/groovy-hanoi/master/README.md)
 ## [Aufsetzen der Entwicklungsumgebung  für PC Programme](setup-dev-groovy.md){bilder/hello.jpg}
 ## [Erste Programmierbeispiele](prog-intro.md){bilder/korb.jpg}
 ## [Grundlagen der Programmierung](prog-basics.md){bilder/alpha.png}
