@@ -2,9 +2,9 @@ Einführung in TALA
 ---
 ## TALA - Eine Einführung
 
-TALA (Teach And Learn Anything) ist eine verteilte Plattform für freie Bildungsmaterialien (OER - Open Educational Resources).
+TALA – Teach And Learn Anything – ist eine Plattform für freie Bildungsmaterialien (Open Educational Resources) für Schulen, Hochschulen, Weiterbildung und Ausbildung und soll jedem Menschen die beste Bildung frei verfügbar machen.
 
-Mit TALA können Bildungsmaterialien zu Kursen zusammengefasst, geteilt und geladen werden.
+Die TALA App bietet Lernenden die Möglichkeit, sich von allen Schulen der Welt, die TALA unterstützen, alle Bildungsmaterialien, die zu einem erfolgreichen Abschluss an einer Bildungseinrichtung benötigt werden, kostenlos und ohne Registrierung zu laden und zu nutzen. Lehrenden bietet TALA die Möglichkeit, ganze Kurse frei in ihrem Unterricht einzusetzen und gemeinsam zu nutzen und zu verbessern.
 
 ---
 ## [Kurse laden](kurs-laden.md){bilder/alpha.png}
