@@ -3,7 +3,7 @@ Meine Musterschule
 
 Name: Meine Musterschule
 
-Ort: Musterstraße 123, 12345 Musterstadt
+Ort: Musterstadt
 
 Typ: Schule für Alle
 
