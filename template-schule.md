@@ -2,9 +2,13 @@ Meine Musterschule
 ---
 
 Name: Meine Musterschule
+
 Ort: Musterstraße 123, 12345 Musterstadt
+
 Typ: Schule für Alle
+
 Email: max.mustermann[at]meine-musterschule.de
+
 Webseite: http://talalab.net
 
 Kurse
