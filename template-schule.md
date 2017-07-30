@@ -2,9 +2,7 @@ Meine Musterschule
 =============
 
 Name: Meine Musterschule
-
 Anschrift: Musterstraße 123, 12345 Musterstadt
-
 Ansprechpartner: max.mustermann[at]meine-musterschule.de
 
 Kurse
