@@ -9,7 +9,7 @@ Die Inhalte werden in Markdown verfasst, einen einfachen Notation zur Gestaltung
 
 #### Schulen laden
 
-[Schule laden](https://img.youtube.com/vi/y2ZJVQsADzI/maxresdefault.jpg)](https://www.youtube.com/watch?v=y2ZJVQsADzI)
+[![Schule laden](https://img.youtube.com/vi/y2ZJVQsADzI/maxresdefault.jpg)](https://youtu.be/y2ZJVQsADzI)
 
 #### Schulen erstellen
 
@@ -24,7 +24,7 @@ Die Informationen auf der Seite können an die eigenen Bedürfnisse angepasst we
 
 #### Kurse laden
 
-[Kurs laden](https://img.youtube.com/vi/y2ZJVQsADzI/maxresdefault.jpg)](https://www.youtube.com/watch?v=y2ZJVQsADzI)
+[![Kurs laden](https://img.youtube.com/vi/y2ZJVQsADzI/maxresdefault.jpg)](https://youtu.be/y2ZJVQsADzI)
 
 #### Kurse erstellen
 
