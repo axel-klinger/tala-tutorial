@@ -45,4 +45,4 @@ Die Informationen auf der Seite können an die eigenen Bedürfnisse angepasst we
 <a href="mailto:teach.and.learn.anything@gmail.com?subject=Feedback zu  TALA">Ideen, Fragen, Anregungen? Wir freuen uns über Feedback. (Mail)</a>
 
 ---
-## [Kurse laden](kurs-laden.md){bilder/alpha.png}
+## [Beispiel Einheit](kurs-laden.md){bilder/alpha.png}

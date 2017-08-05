@@ -1,3 +1,3 @@
-# Kurs laden
+# Beispiel Einheit
 
-[![Kurs laden](https://img.youtube.com/vi/y2ZJVQsADzI/maxresdefault.jpg)](https://youtu.be/y2ZJVQsADzI)
+Dies ist nur ein Beispiel für eine Einheit.
