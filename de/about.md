@@ -26,13 +26,3 @@ Was mich interessiert ...
 * kann ich mir nicht leisten zu lernen
 * habe ich verpasst
 * wurde durch Ausfall der Stunden nicht angeboten
-
-### Häufige gestellte Fragen
-
-**Wenn ich etwas schreibe, ist es dann gleich online?**
-
-* Wenn es auf GitHub geschrieben wird, Ja. Wenn es in der App geschrieben wird, Nein. Alles was ich in der App erstelle ist zunächst lokal auf meinem Gerät gespeichert. Um es zu veröffentlichen muss ich erst einen Autorenzugang auf einem Server haben und den Kurs explizit veröffentlichen.
-
-**Muss ich mich irgendwo mit meinen persönlichen Daten registrieren?**
-
-* Als Schüler/Student brauche ich micht nicht zu registrieren um Kurse zu laden. Als Lehrer brauche ich einen Zugang mit Schreibrechten auf einem Server mit Name und Email Adresse.
