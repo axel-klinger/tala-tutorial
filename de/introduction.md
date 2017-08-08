@@ -34,7 +34,7 @@ Um einen Kurs zu erstellen benötigst du einen kostenlosen Account bei [GitHub](
 
 Auf GitHub oder GitLab erstellst du ein Projekt für den Kurs und legst eine neue Datei mit folgendem Inhalt an [Vorlage Kurs](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/template-kurs.md).
 
-Wenn der Kurs in Einheiten aufgeteilt werden soll, gibt es auch eine [Vorlage für Einheiten](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/template-kurs.md). Für jede Einheit wird dabei eine eigene Datei angelegt.
+Wenn der Kurs in Einheiten aufgeteilt werden soll, gibt es auch eine [Vorlage für Einheiten](https://raw.githubusercontent.com/axel-klinger/tala-tutorial/master/template-einheit.md). Für jede Einheit wird dabei eine eigene Datei angelegt.
 
 Wenn du dann einen Kurs erstellt hast, kannst du ihn entweder direkt in der App als einzenen Kurs laden oder ihn zu einer Schule hinzufügen (lassen).
 
